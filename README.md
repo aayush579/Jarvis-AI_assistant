@@ -150,6 +150,65 @@ Jarvis-AI/
 ## 🚀 Setup & Execution
 
 ### Clone the Repository
-```bash
 git clone https://github.com/aayush579/Jarvis-AI_assistant.git
 cd Jarvis_AI
+Install Dependencies
+pip install -r requirements.txt
+
+Run the Assistant
+python jarvis.py
+
+🧪 Example Commands
+
+“Jarvis, remind me about my exam tomorrow at 9 AM”
+
+“Open VS Code and my C++ project”
+
+“Summarize my tasks for today”
+
+“Remember that C++ is my primary language”
+
+“Generate a project report PDF”
+
+🚀 Impact & Learnings
+
+Through this project, I gained hands-on experience in:
+
+Designing agent-based AI systems
+
+Building scalable and modular architectures
+
+Integrating AI with system-level automation
+
+Managing state, memory, and context
+
+Developing full-stack desktop applications
+
+This project reflects my strong interest in AI systems, software engineering, and automation, and aligns with real-world engineering challenges.
+
+🔮 Future Enhancements
+
+Web-based cloud synchronization
+
+Mobile companion application
+
+Advanced planning and reasoning engine
+
+Secure multi-user profiles
+
+Continuous self-learning behavior
+
+👨‍💻 Author
+
+Aayush
+Computer Science Undergraduate
+Primary Language: C++
+Interests: AI Systems, Software Engineering, Automation
+
+GitHub: https://github.com/your-username
+
+⭐ Acknowledgements
+
+Inspired by intelligent agent systems and real-world automation challenges.
+
+If you find this project interesting, feel free to ⭐ star the repository.
