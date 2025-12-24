@@ -152,10 +152,10 @@ Jarvis-AI/
 ### Clone the Repository
 git clone https://github.com/aayush579/Jarvis-AI_assistant.git
 cd Jarvis_AI
-Install Dependencies
+Install Dependencies-
 pip install -r requirements.txt
 
-Run the Assistant
+Run the Assistant-
 python jarvis.py
 
 🧪 Example Commands
@@ -205,7 +205,7 @@ Computer Science Undergraduate
 Primary Language: C++
 Interests: AI Systems, Software Engineering, Automation
 
-GitHub: https://github.com/your-username
+GitHub: https://github.com/aayush579
 
 ⭐ Acknowledgements
 
