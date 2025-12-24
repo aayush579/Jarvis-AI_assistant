@@ -102,4 +102,54 @@ The system is designed so that **new features can be added without modifying cor
 ---
 
 ## 🏗️ Architecture & Design
+Jarvis-AI/
+│
+├── core/
+│ ├── brain.py # AI decision-making & reasoning
+│ ├── memory.py # Persistent user memory
+│ ├── speech.py # Voice input/output pipeline
+│
+├── plugins/
+│ ├── reminder.py # Scheduling & alerts
+│ ├── automation.py # System-level commands
+│ ├── tools.py # External integrations
+│
+├── gui/
+│ ├── electron/ # Desktop shell
+│ ├── react/ # Frontend UI
+│
+├── assets/
+│ ├── icons/
+│ ├── sounds/
+│
+├── jarvis.py # Application entry point
+└── requirements.txt
 
+
+### Design Principles
+- Modularity
+- Separation of concerns
+- Scalability
+- Maintainability
+- Clean, readable code
+
+---
+
+## 🛠️ Tech Stack
+
+- **Language:** Python
+- **AI / NLP:** GPT-based reasoning
+- **Voice Processing:** SpeechRecognition, pyttsx3
+- **Frontend:** React
+- **Desktop Framework:** Electron
+- **Storage:** Local JSON-based persistence
+- **Automation:** OS-level Python libraries
+
+---
+
+## 🚀 Setup & Execution
+
+### Clone the Repository
+```bash
+git clone https://github.com/aayush579/Jarvis-AI_assistant.git
+cd Jarvis_AI
